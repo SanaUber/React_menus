@@ -1,0 +1,100 @@
+npx create-react-app my-app
+https://www.npmjs.com/package/express --xpes.js
+
+
+
+
+material-table 
+npm install @mui/material @emotion/react @emotion/styled
+npm uninstall material-table
+npm install material-table@1.36.0 --save
+to stop prog from other nodes-----
+ killall -9 node
+---
+in package.jason in my-app
+change
+build
+"winBuild": "set \"GENERATE_SOURCEMAP=false\" && react-scripts build",
+https://material-table.com/#/docs/all-props ---for tables in react
+https://mui.com/
+You can format your JSON document using Ctrl+Shift+I or Format Document from the context menu.
+for api
+npm install Json-server 
+npm json-server -watch mock_data.json
+API
+https://www.youtube.com/watch?v=EzXqtu3KeiA
+npm install express
+npm install express-generator -g
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser
+cd myapi
+npm install
+express -h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+npm install -g create-react-app
+>create-react-app test-project
+
+
+
+
+//if dependency issue
+
+npm config set legacy-peer-deps true
+//for material
+npm install material-table --save
+npm install @material-ui/core --save
+// @materiail icon
+ npm i @mui/material @emotion/react @emotion/styled
+
+
+
+
+https://www.youtube.com/watch?v=6I5tm9jkUnE====eneabling authenticat‭ion mode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+npm install -g create-react-app
+>create-react-app test-project
+
+
+
+
+//if dependency issue
+
+npm config set legacy-peer-deps true
+//for material
+npm install material-table --save
+npm install @material-ui/core --save
+// @materiail icon
+ npm i @mui/material @emotion/react @emotion/styled

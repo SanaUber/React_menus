@@ -1,0 +1,11 @@
+Configuration (config) is exported from the module.
+Functions are provided to execute queries.
+A query is run to fetch data, which is stored in a variable (data).
+The application may interact with an API to obtain additional data or perform actions.
+Finally, a React component (<TableReact/>) is exported for rendering a table or displaying data in the user interface.
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+# Ignore environment variable file
+.env
+
+# Ignore node modules
+node_modules/
+
+# Ignore log files
+*.log
+logs/
+
+# Ignore database-related files
+*.sql
+*.db
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore video files
+*.mp4
